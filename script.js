@@ -1,5 +1,4 @@
 function num_ways(data){
-let arr = []
 let temp = []
 
 let inta = {
