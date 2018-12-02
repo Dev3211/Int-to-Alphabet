@@ -39,7 +39,6 @@ if(split.length == 0) return 'did you even input anything?'
 if(data[s] == '0') return 'I wonder if 0 exists in the alphabet index'
 
 Object.keys(inta).forEach(function(key, index) {
-var val = inta[index];
 if(inta.hasOwnProperty(newArray[index])){
 temp.push(inta[newArray[index]])
 }
